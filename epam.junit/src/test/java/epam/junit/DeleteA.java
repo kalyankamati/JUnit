@@ -26,10 +26,7 @@ Junit d;
 		assertEquals("BBAA", d.del("BBAA"));
 	}
 
-	@Test
-	void test4() {
-		assertEquals("", d.del("A"));
-	}
+	
 
 	@Test
 	void test5() {
