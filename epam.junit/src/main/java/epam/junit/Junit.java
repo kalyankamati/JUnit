@@ -1,9 +1,7 @@
 package epam.junit;
 
 public class Junit {
-	public static void main(String args[]) {
-		del("kalyan");
-	}
+	
 	
 	
 	public static String del(String str)  {
